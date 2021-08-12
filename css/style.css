@@ -321,5 +321,11 @@ td:hover {
 		font-size: 15px;
 		font-weight: 500;
 	}
+	.title__text{
+	font-size: 15px;
+	font-weight: 500;
+	margin-bottom: 20px;
+	line-height: 1.1;
+}
 }
 /*_________________________________________________*/
