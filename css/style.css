@@ -312,13 +312,13 @@ td:hover {
 	.button {
 		line-height: 2;
 		width: 89%;
-		font-size: 14px;
+		font-size: 13px;
 		font-weight: 500;
 	}
 	.input__p {
 		padding: 6px 0px;
 		width: 60px;
-		font-size: 14px;
+		font-size: 15px;
 		font-weight: 500;
 	}
 	.title__text{
