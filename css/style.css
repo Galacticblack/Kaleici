@@ -394,6 +394,9 @@ td:hover {
 	.title {
 		font-size: 25px;
 	}
+	.mobile__title {
+	font-size: 17px;
+	}
 	.laptop {
 		display: none;
 	}
